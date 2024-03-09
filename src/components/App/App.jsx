@@ -1,6 +1,6 @@
 const App = () => {
     return (
-        <h1>UI Elements</h1>
+        <h1>UI elements</h1>
     )
 }
 
